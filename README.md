@@ -1,31 +1,36 @@
-Tic-Tac-Toe React Game
-A simple Tic-Tac-Toe game built with React that demonstrates state management and component structure.
+# 🎮 Tic-Tac-Toe React Game
 
-Features
-Classic 3x3 Tic-Tac-Toe gameplay
+A simple and modern **Tic-Tac-Toe** game built with **React**. This project demonstrates effective **state management**, **component structure**, and a clean **UI design** using React best practices.
 
-Turn-based system (X and O)
+---
 
-Winner detection
+## ✨ Features
 
-Game reset functionality
+- ✅ Classic 3x3 Tic-Tac-Toe gameplay  
+- 🔁 Turn-based system (Player **X** and **O**)  
+- 🏆 Winner detection logic  
+- ♻️ Reset Game functionality  
+- 📱 Responsive and mobile-friendly design  
+- 🎨 Clean, modern user interface
 
-Responsive design
+---
 
-Clean, modern UI
+## 🕹️ How to Play
 
-How to Play
-Players alternate placing X and O on the board
+1. Players take turns placing **X** or **O** on the board.
+2. The first player to align **three** of their marks in a row (horizontally, vertically, or diagonally) wins the game.
+3. Click the **"Reset Game"** button anytime to start a new match.
 
-First player to get 3 in a row (horizontally, vertically, or diagonally) wins
+---
 
-Click "Reset Game" to start a new match at any time
+## 🚀 Getting Started
 
-Installation
-Clone the repository:
+Follow these steps to run the project locally:
 
-bash
+### 🔧 Clone the repository
+```bash
 git clone https://github.com/IT22003850/react.dev-main.git
+
 Navigate to the project directory:
 
 bash
