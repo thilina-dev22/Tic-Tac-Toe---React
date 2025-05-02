@@ -25,11 +25,11 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/tic-tac-toe-react.git
+git clone https://github.com/IT22003850/react.dev-main.git
 Navigate to the project directory:
 
 bash
-cd tic-tac-toe-react
+cd react.dev-main
 Install dependencies:
 
 bash
